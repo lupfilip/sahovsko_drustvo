@@ -1,2 +1,2 @@
 # sahovsko_drustvo
-SPletna stran o šahovskem društvu
+Spletna stran o šahovskem društvu
